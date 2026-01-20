@@ -1,5 +1,6 @@
 # 2024 College Exam - UC Gestão e Qualidade de Software
 
+![logo-faculdade](Doc/FADERGS logo.png)
 
 ## Overview
 
