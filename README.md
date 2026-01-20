@@ -1,6 +1,7 @@
 # 2024 College Exam - UC Gestão e Qualidade de Software
 
-![logo-faculdade](Doc/FADERGS logo.png)
+![logo-faculdade](https://github.com/GustavoBrizola/2024CollegeExam-UCGestaoEQualidadeDeSoftware/blob/28399fe8e8ddbb99b71fec8a481b0e1514c0f2c2/Doc/FADERGS%20logo.png)
+
 
 ## Overview
 
