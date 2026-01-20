@@ -3,6 +3,10 @@ import Paginas.SiteCadastro;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
+/*
+*
+* @author GustavoBrizola
+*/
 public class Cadastramento extends Site
 {
     SiteCadastro access = new SiteCadastro(GetDriver());
