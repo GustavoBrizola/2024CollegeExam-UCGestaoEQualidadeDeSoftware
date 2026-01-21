@@ -12,7 +12,7 @@ The project main goal is build software testing of each system aspect and automa
 
 
 ## Development Process
-The testing scenarios and test cases developmente are documented in [A3 - Plano de Testes](https://github.com/GustavoBrizola/2024CollegeExam-UCGestaoEQualidadeDeSoftware/blob/80fb101ce8ad590cfe915a88bffbb64a6819d85f/A3%20-%20Plano%20de%20Testes.pdf), witch is at this repository's root. The test writing also was set with **OPENUP** workflow process.
+The testing scenarios and test cases developmente are documented in [A3 - Plano de Testes](https://github.com/GustavoBrizola/2024CollegeExam-UCGestaoEQualidadeDeSoftware/blob/80fb101ce8ad590cfe915a88bffbb64a6819d85f/A3%20-%20Plano%20de%20Testes.pdf), witch is in this repository's root. The test writing also was set with **OPENUP** workflow process.
 
 ### Test Scenarios
 Was used the IntelliJ IDE the create the following Scenarios:
