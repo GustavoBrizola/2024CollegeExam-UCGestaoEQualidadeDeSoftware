@@ -4,6 +4,11 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.testng.annotations.BeforeClass;
 
+/**
+ * 
+ * @author @GustavoBrizola
+ */
+
 public class Site
 {
     public WebDriver driver;

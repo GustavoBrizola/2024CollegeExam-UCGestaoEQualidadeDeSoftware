@@ -1,8 +1,13 @@
+
 package Paginas;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.PageFactory;
 
+/**
+ * 
+ * @author @GustavoBrizola
+ */
 public class BasePage
 {
     protected WebDriver driver;
